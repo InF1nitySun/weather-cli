@@ -1,0 +1,26 @@
+{
+  "name": "weather-cli",
+  "version": "1.0.0-alpha",
+  "description": "CLI for getting weather",
+  "main": "index.js",
+  "bin": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "cli",
+    "weather"
+  ],
+  "author": "InF1nity",
+  "license": "ISC",
+  "homepage": "http://localhost:3000",
+  "repository": {
+    "type": "git",
+    "url": "http://localhost:3000"
+  },
+  "bugs": {
+    "url": "http://localhost:3000",
+    "email": "tosttj@mail.com"
+  }
+}
